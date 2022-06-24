@@ -1,2 +1,2 @@
-#!/bim/bash
+#!/bin/bash
 mkdir my_dir 751
